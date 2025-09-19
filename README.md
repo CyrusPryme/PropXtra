@@ -1,4 +1,4 @@
-##PropTech Platform - Complete Product Specification
+## PropTech Platform - Complete Product Specification
 
 ## A) Executive Summary
 
